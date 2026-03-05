@@ -13,3 +13,9 @@ M2
 ```
 x
 ```
+
+### Kiro resources:
+
+* Changelog: https://kiro.dev/changelog/page/ (contains several pages)
+* Kiro Youtube channel: https://www.youtube.com/@kirodotdev
+* Kiro Github: https://github.com/kirodotdev
