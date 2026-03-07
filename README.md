@@ -17,6 +17,9 @@ x
 ### Kiro resources:
 
 * Changelog: https://kiro.dev/changelog/page/ (contains several pages)
+
+* Kiro Github: https://github.com/kirodotdev (very active)
+* Kiro Discord: https://discord.com/invite/kirodotdev (very active)
+* Kiro X: https://x.com/kirodotdev (very active)
 * Kiro LinkedIn: https://www.linkedin.com/showcase/kirodotdev/
 * Kiro Youtube channel: https://www.youtube.com/@kirodotdev
-* Kiro Github: https://github.com/kirodotdev
