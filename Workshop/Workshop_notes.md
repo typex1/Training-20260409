@@ -95,3 +95,14 @@ Mit Formatierung:
 ### Runtime (Laufzeitumgebung)
 
 Verwende **Bun** als Runtime und Paketmanager für das gesamte Projekt. Nutze das integrierte **`bun:sqlite`** für die lokale Datenspeicherung, um ohne einen externen Datenbankserver auszukommen.
+
+
+Lab 2 Prompt, Übersetzt ins Deutsche:
+
+```
+Füge eine Drag-and-Drop-Funktionalität für die Aufgabenkarten im Kanban-Dashboard hinzu, um deren Status zu ändern.
+```
+
+Original:
+Add drag and drop functionality to the task cards on the Kanban dashboard to change status
+
