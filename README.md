@@ -22,7 +22,7 @@ eigene Spalte namens 'Region'."
 ```
 ```
 Ich möchte gerne lernen, mit Kiro zu arbeiten. Da ich noch nach einem guten Anwendungsfall suche,
-stell mir ein paar Fragen, damit wir gemeinsam herausfinden können, welcher Anwendungsfall
+stell mir ein paar Fragen, damit wir gemeinsam herausfinden können, welche Idee
 spannend wäre für ein erstes Kiro Projekt.
 ```
 ```
